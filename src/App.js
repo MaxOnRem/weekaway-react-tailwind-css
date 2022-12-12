@@ -1,5 +1,6 @@
 import React from 'react';
 import Activities from './components/Activities';
+import Booking from './components/Booking';
 import Hero from './components/Hero';
 import NavBar from './components/NavBar';
 import TopBar from './components/TopBar';
@@ -11,6 +12,7 @@ function App() {
 			<NavBar />
 			<Hero />
 			<Activities />
+			<Booking />
 		</div>
 	);
 }
