@@ -9,12 +9,15 @@
 	--primary-light: #709dff;
 }
 ::selection {
-	background-color: var(--primary-light);
+	/* background-color: var(--primary-light); */
+	background-color: #00ffff;
+	color: #293241;
 }
 
 @layer base {
 	html {
 		@apply scroll-smooth;
+		@apply box-border;
 	}
 
 	body {
