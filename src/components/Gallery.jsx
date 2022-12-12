@@ -7,35 +7,35 @@ const Gallery = () => {
 					<img
 						src="https://images.unsplash.com/photo-1474533883693-59a44dbb964e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGJlYWNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
 						alt="/"
-						className="w-full h-full object-cover"
+						className="w-full h-full object-cover shadow-xl"
 					/>
 				</div>
 				<div>
 					<img
 						src="https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGJlYWNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
 						alt="/"
-						className="w-full h-full object-cover"
+						className="w-full h-full object-cover shadow-xl"
 					/>
 				</div>
 				<div>
 					<img
 						src="https://images.unsplash.com/photo-1613553507747-5f8d62ad5904?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
 						alt="/"
-						className="w-full h-full object-cover"
+						className="w-full h-full object-cover shadow-xl"
 					/>
 				</div>
 				<div>
 					<img
 						src="https://images.unsplash.com/photo-1615571022219-eb45cf7faa9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80"
 						alt="/"
-						className="w-full h-full object-cover"
+						className="w-full h-full object-cover shadow-xl"
 					/>
 				</div>
 				<div>
 					<img
 						src="https://images.unsplash.com/photo-1519046904884-53103b34b206?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
 						alt="/"
-						className="w-full h-full object-cover"
+						className="w-full h-full object-cover shadow-xl"
 					/>
 				</div>
 			</div>
