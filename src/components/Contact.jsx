@@ -7,7 +7,7 @@ const Contact = () => {
 				<img
 					src="https://images.unsplash.com/photo-1515404929826-76fff9fef6fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzB8fGJlYWNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
 					alt="beach"
-					className="w-full md:h-full object-cover p-2 max-h-[500px] h-[200px]"
+					className="w-full md:h-full object-cover p-2 max-h-[500px] h-[200px] shadow-2xl"
 				/>
 				<form>
 					<div className="grid grid-cols-2">
