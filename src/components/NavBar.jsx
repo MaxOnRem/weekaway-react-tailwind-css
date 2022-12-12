@@ -1,5 +1,4 @@
-import { useEffect, useState } from 'react';
-import { BsChatSquareDots } from 'react-icons/bs';
+import { useState } from 'react';
 import { FaBars, FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa';
 
 const NavBar = () => {
