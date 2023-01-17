@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weekaway-react-tailwind-css/static/css/main.7ef40ff2.css",
+    "main.js": "/weekaway-react-tailwind-css/static/js/main.5dde08a9.js",
+    "index.html": "/weekaway-react-tailwind-css/index.html",
+    "main.7ef40ff2.css.map": "/weekaway-react-tailwind-css/static/css/main.7ef40ff2.css.map",
+    "main.5dde08a9.js.map": "/weekaway-react-tailwind-css/static/js/main.5dde08a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef40ff2.css",
+    "static/js/main.5dde08a9.js"
+  ]
+}
